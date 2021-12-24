@@ -12,7 +12,7 @@ Tribally SDKs enable your users to create communities and bring in more people t
   s.homepage         = 'https://horum.co'
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'Horum' => 'contact@horum.co' }
-  s.source           = { :git => '.' }
+  s.source           = { :git => 'https://github.com/HorumDev/tribally.git' }
   s.source_files = 'Classes/**/*'
   s.dependency 'Flutter'
   s.dependency 'Tribally'
